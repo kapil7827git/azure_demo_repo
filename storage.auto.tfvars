@@ -5,7 +5,7 @@ storage_deployments = {
     region_name             = "eastus"
     disable_public_access   = true
     enable_private_endpoint = true
-    subnet_id               = "/subscriptions/510ccec2-6a0b-49a6-a561-643fa50c79a3/resourceGroups/rg-network-demo/providers/Microsoft.Network/virtualNetworks/vnet-eastus/subnets/snet-private-endpoints"
+    subnet_id               = "/subscriptions/2cea9ad3-f62b-49e5-95f0-ad2b08d764ab/resourceGroups/rg-network-demo/providers/Microsoft.Network/virtualNetworks/vnet-eastus/subnets/snet-private-endpoints"
 
   },
   "deployment-02" = {
