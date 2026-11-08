@@ -1,7 +1,7 @@
 storage_deployments = {
   "deployment-01" = {
     rg_name                 = "rg-data-eastus-01"
-    storage_account_name    = "sherlockstorage1"
+    storage_account_name    = "sherlockstorage7827"
     region_name             = "eastus"
     disable_public_access   = true
     enable_private_endpoint = true
