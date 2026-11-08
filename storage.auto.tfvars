@@ -10,7 +10,7 @@ storage_deployments = {
   },
   "deployment-02" = {
     rg_name                 = "rg-logs-eastus2-02"
-    storage_account_name    = "sherlockstorage2"
+    storage_account_name    = "sherlockstorage27827"
     region_name             = "eastus2"
     disable_public_access   = false
     enable_private_endpoint = false
@@ -18,7 +18,7 @@ storage_deployments = {
   },
   "deployment-03" = {
     rg_name                 = "rg-shared-centralus-03"
-    storage_account_name    = "sherlockstorage3"
+    storage_account_name    = "sherlockstorage37827"
     region_name             = "centralus"
     disable_public_access   = false
     enable_private_endpoint = false
