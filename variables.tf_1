@@ -19,3 +19,4 @@ variable "tags" {
     Project     = "training"
   }
 }
+#changes
